@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayatri-imbrapure" alt="gayatri-imbrapure" /></a> </p>
 
-- 🔭 I’m currently working on **Eye-Anemia Detection Application**
 
 - 🌱 I’m currently learning **Django and Docker**
 
